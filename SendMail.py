@@ -1,3 +1,8 @@
+__author__ = 'Filippo Cucchetto'
+__copyright__ = 'Copyright 2015-16, Filippo Cucchetto'
+__license__ = 'MIT'
+__email__ = 'filippocucchetto@gmail.com'
+
 import base64
 from email.mime.text import MIMEText
 from oauth2client.client import OAuth2WebServerFlow
