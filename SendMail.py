@@ -1,5 +1,3 @@
-
-
 import base64
 from email.mime.text import MIMEText
 from oauth2client.client import OAuth2WebServerFlow
