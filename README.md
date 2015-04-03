@@ -3,8 +3,8 @@ Small python script that uses Google OAuth 2.0 authentication for sending email 
 
 #Requirements
 * Python 3.4
-* google-api-python-client-py3	1.2	1.2
-* httplib2	0.9	0.9
+* google-api-python-client-py3 1.2
+* httplib2 0.9
 
 #Usage
 First create an application through [Google API Console](https://code.google.com/apis/console)
